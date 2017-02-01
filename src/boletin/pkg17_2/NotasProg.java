@@ -62,7 +62,7 @@ public class NotasProg {
 
             acu = acu + notas[i];
         }
-        System.out.println("La nota media da clase es de " + acu / notas.length);
+        System.out.println("La nota media de clase es de " + acu / notas.length);
     }
 
     public void notaMasAlta() {
